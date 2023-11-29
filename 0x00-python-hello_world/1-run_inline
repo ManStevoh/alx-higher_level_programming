@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Example Python code
+PYCODE='print("Hello, World!")'
+
+# Run the Python code
+python3 -c "$PYCODE"
